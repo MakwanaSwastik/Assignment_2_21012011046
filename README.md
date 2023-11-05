@@ -22,7 +22,10 @@ TicTacToeGame is a simple Android application designed for playing the classic g
 Enjoy your games of Tic Tac Toe with the TicTacToeGame app!
 
 ## Screenshots
-[Insert screenshots of the app here]
+![Screenshot 1](Screenshot_1.png)
+![Screenshot 1](Screenshot_2.png)
+![Screenshot 1](Screenshot_3.png)
+![Screenshot 1](Screenshot_4.png)
 
 ## Installation
 To install and run this app, follow these steps:
