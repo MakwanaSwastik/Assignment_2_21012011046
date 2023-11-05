@@ -55,7 +55,7 @@ class game : AppCompatActivity() {
                         } else if (winner == p2) {
                             winText.text = "Player O wins!"
                         } else {
-                            winText.text = "IT'S TIES Restart Again."
+                            winText.text = "It's Tie Restart Again."
                         }
                     }
                 }
